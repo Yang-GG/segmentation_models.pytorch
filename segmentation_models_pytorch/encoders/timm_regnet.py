@@ -41,76 +41,76 @@ class RegNetEncoder(RegNet, EncoderMixin):
 
 regnet_weights = {
     "timm-regnetx_002": {
-        "imagenet": "https://github.com/rwightman/pytorch-image-models/releases/download/v0.1-regnet/regnetx_002-e7e85e5c.pth",  # noqa
+        "imagenet": "https://mirror.ghproxy.com/https://github.com/rwightman/pytorch-image-models/releases/download/v0.1-regnet/regnetx_002-e7e85e5c.pth",  # noqa
     },
     "timm-regnetx_004": {
-        "imagenet": "https://github.com/rwightman/pytorch-image-models/releases/download/v0.1-regnet/regnetx_004-7d0e9424.pth",  # noqa
+        "imagenet": "https://mirror.ghproxy.com/https://github.com/rwightman/pytorch-image-models/releases/download/v0.1-regnet/regnetx_004-7d0e9424.pth",  # noqa
     },
     "timm-regnetx_006": {
-        "imagenet": "https://github.com/rwightman/pytorch-image-models/releases/download/v0.1-regnet/regnetx_006-85ec1baa.pth",  # noqa
+        "imagenet": "https://mirror.ghproxy.com/https://github.com/rwightman/pytorch-image-models/releases/download/v0.1-regnet/regnetx_006-85ec1baa.pth",  # noqa
     },
     "timm-regnetx_008": {
-        "imagenet": "https://github.com/rwightman/pytorch-image-models/releases/download/v0.1-regnet/regnetx_008-d8b470eb.pth",  # noqa
+        "imagenet": "https://mirror.ghproxy.com/https://github.com/rwightman/pytorch-image-models/releases/download/v0.1-regnet/regnetx_008-d8b470eb.pth",  # noqa
     },
     "timm-regnetx_016": {
-        "imagenet": "https://github.com/rwightman/pytorch-image-models/releases/download/v0.1-regnet/regnetx_016-65ca972a.pth",  # noqa
+        "imagenet": "https://mirror.ghproxy.com/https://github.com/rwightman/pytorch-image-models/releases/download/v0.1-regnet/regnetx_016-65ca972a.pth",  # noqa
     },
     "timm-regnetx_032": {
-        "imagenet": "https://github.com/rwightman/pytorch-image-models/releases/download/v0.1-regnet/regnetx_032-ed0c7f7e.pth",  # noqa
+        "imagenet": "https://mirror.ghproxy.com/https://github.com/rwightman/pytorch-image-models/releases/download/v0.1-regnet/regnetx_032-ed0c7f7e.pth",  # noqa
     },
     "timm-regnetx_040": {
-        "imagenet": "https://github.com/rwightman/pytorch-image-models/releases/download/v0.1-regnet/regnetx_040-73c2a654.pth",  # noqa
+        "imagenet": "https://mirror.ghproxy.com/https://github.com/rwightman/pytorch-image-models/releases/download/v0.1-regnet/regnetx_040-73c2a654.pth",  # noqa
     },
     "timm-regnetx_064": {
-        "imagenet": "https://github.com/rwightman/pytorch-image-models/releases/download/v0.1-regnet/regnetx_064-29278baa.pth",  # noqa
+        "imagenet": "https://mirror.ghproxy.com/https://github.com/rwightman/pytorch-image-models/releases/download/v0.1-regnet/regnetx_064-29278baa.pth",  # noqa
     },
     "timm-regnetx_080": {
-        "imagenet": "https://github.com/rwightman/pytorch-image-models/releases/download/v0.1-regnet/regnetx_080-7c7fcab1.pth",  # noqa
+        "imagenet": "https://mirror.ghproxy.com/https://github.com/rwightman/pytorch-image-models/releases/download/v0.1-regnet/regnetx_080-7c7fcab1.pth",  # noqa
     },
     "timm-regnetx_120": {
-        "imagenet": "https://github.com/rwightman/pytorch-image-models/releases/download/v0.1-regnet/regnetx_120-65d5521e.pth",  # noqa
+        "imagenet": "https://mirror.ghproxy.com/https://github.com/rwightman/pytorch-image-models/releases/download/v0.1-regnet/regnetx_120-65d5521e.pth",  # noqa
     },
     "timm-regnetx_160": {
-        "imagenet": "https://github.com/rwightman/pytorch-image-models/releases/download/v0.1-regnet/regnetx_160-c98c4112.pth",  # noqa
+        "imagenet": "https://mirror.ghproxy.com/https://github.com/rwightman/pytorch-image-models/releases/download/v0.1-regnet/regnetx_160-c98c4112.pth",  # noqa
     },
     "timm-regnetx_320": {
-        "imagenet": "https://github.com/rwightman/pytorch-image-models/releases/download/v0.1-regnet/regnetx_320-8ea38b93.pth",  # noqa
+        "imagenet": "https://mirror.ghproxy.com/https://github.com/rwightman/pytorch-image-models/releases/download/v0.1-regnet/regnetx_320-8ea38b93.pth",  # noqa
     },
     "timm-regnety_002": {
-        "imagenet": "https://github.com/rwightman/pytorch-image-models/releases/download/v0.1-regnet/regnety_002-e68ca334.pth",  # noqa
+        "imagenet": "https://mirror.ghproxy.com/https://github.com/rwightman/pytorch-image-models/releases/download/v0.1-regnet/regnety_002-e68ca334.pth",  # noqa
     },
     "timm-regnety_004": {
-        "imagenet": "https://github.com/rwightman/pytorch-image-models/releases/download/v0.1-regnet/regnety_004-0db870e6.pth",  # noqa
+        "imagenet": "https://mirror.ghproxy.com/https://github.com/rwightman/pytorch-image-models/releases/download/v0.1-regnet/regnety_004-0db870e6.pth",  # noqa
     },
     "timm-regnety_006": {
-        "imagenet": "https://github.com/rwightman/pytorch-image-models/releases/download/v0.1-regnet/regnety_006-c67e57ec.pth",  # noqa
+        "imagenet": "https://mirror.ghproxy.com/https://github.com/rwightman/pytorch-image-models/releases/download/v0.1-regnet/regnety_006-c67e57ec.pth",  # noqa
     },
     "timm-regnety_008": {
-        "imagenet": "https://github.com/rwightman/pytorch-image-models/releases/download/v0.1-regnet/regnety_008-dc900dbe.pth",  # noqa
+        "imagenet": "https://mirror.ghproxy.com/https://github.com/rwightman/pytorch-image-models/releases/download/v0.1-regnet/regnety_008-dc900dbe.pth",  # noqa
     },
     "timm-regnety_016": {
-        "imagenet": "https://github.com/rwightman/pytorch-image-models/releases/download/v0.1-regnet/regnety_016-54367f74.pth",  # noqa
+        "imagenet": "https://mirror.ghproxy.com/https://github.com/rwightman/pytorch-image-models/releases/download/v0.1-regnet/regnety_016-54367f74.pth",  # noqa
     },
     "timm-regnety_032": {
-        "imagenet": "https://github.com/rwightman/pytorch-image-models/releases/download/v0.1-weights/regnety_032_ra-7f2439f9.pth",  # noqa
+        "imagenet": "https://mirror.ghproxy.com/https://github.com/rwightman/pytorch-image-models/releases/download/v0.1-weights/regnety_032_ra-7f2439f9.pth",  # noqa
     },
     "timm-regnety_040": {
-        "imagenet": "https://github.com/rwightman/pytorch-image-models/releases/download/v0.1-regnet/regnety_040-f0d569f9.pth",  # noqa
+        "imagenet": "https://mirror.ghproxy.com/https://github.com/rwightman/pytorch-image-models/releases/download/v0.1-regnet/regnety_040-f0d569f9.pth",  # noqa
     },
     "timm-regnety_064": {
-        "imagenet": "https://github.com/rwightman/pytorch-image-models/releases/download/v0.1-regnet/regnety_064-0a48325c.pth",  # noqa
+        "imagenet": "https://mirror.ghproxy.com/https://github.com/rwightman/pytorch-image-models/releases/download/v0.1-regnet/regnety_064-0a48325c.pth",  # noqa
     },
     "timm-regnety_080": {
-        "imagenet": "https://github.com/rwightman/pytorch-image-models/releases/download/v0.1-regnet/regnety_080-e7f3eb93.pth",  # noqa
+        "imagenet": "https://mirror.ghproxy.com/https://github.com/rwightman/pytorch-image-models/releases/download/v0.1-regnet/regnety_080-e7f3eb93.pth",  # noqa
     },
     "timm-regnety_120": {
-        "imagenet": "https://github.com/rwightman/pytorch-image-models/releases/download/v0.1-regnet/regnety_120-721ba79a.pth",  # noqa
+        "imagenet": "https://mirror.ghproxy.com/https://github.com/rwightman/pytorch-image-models/releases/download/v0.1-regnet/regnety_120-721ba79a.pth",  # noqa
     },
     "timm-regnety_160": {
-        "imagenet": "https://github.com/rwightman/pytorch-image-models/releases/download/v0.1-regnet/regnety_160-d64013cd.pth",  # noqa
+        "imagenet": "https://mirror.ghproxy.com/https://github.com/rwightman/pytorch-image-models/releases/download/v0.1-regnet/regnety_160-d64013cd.pth",  # noqa
     },
     "timm-regnety_320": {
-        "imagenet": "https://github.com/rwightman/pytorch-image-models/releases/download/v0.1-regnet/regnety_320-ba464b29.pth",  # noqa
+        "imagenet": "https://mirror.ghproxy.com/https://github.com/rwightman/pytorch-image-models/releases/download/v0.1-regnet/regnety_320-ba464b29.pth",  # noqa
     },
 }
 
