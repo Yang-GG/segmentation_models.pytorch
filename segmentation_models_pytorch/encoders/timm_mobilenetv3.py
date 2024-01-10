@@ -89,22 +89,22 @@ class MobileNetV3Encoder(nn.Module, EncoderMixin):
 
 mobilenetv3_weights = {
     "tf_mobilenetv3_large_075": {
-        "imagenet": "https://github.com/rwightman/pytorch-image-models/releases/download/v0.1-weights/tf_mobilenetv3_large_075-150ee8b0.pth"  # noqa
+        "imagenet": "https://mirror.ghproxy.com/https://github.com/rwightman/pytorch-image-models/releases/download/v0.1-weights/tf_mobilenetv3_large_075-150ee8b0.pth"  # noqa
     },
     "tf_mobilenetv3_large_100": {
-        "imagenet": "https://github.com/rwightman/pytorch-image-models/releases/download/v0.1-weights/tf_mobilenetv3_large_100-427764d5.pth"  # noqa
+        "imagenet": "https://mirror.ghproxy.com/https://github.com/rwightman/pytorch-image-models/releases/download/v0.1-weights/tf_mobilenetv3_large_100-427764d5.pth"  # noqa
     },
     "tf_mobilenetv3_large_minimal_100": {
-        "imagenet": "https://github.com/rwightman/pytorch-image-models/releases/download/v0.1-weights/tf_mobilenetv3_large_minimal_100-8596ae28.pth"  # noqa
+        "imagenet": "https://mirror.ghproxy.com/https://github.com/rwightman/pytorch-image-models/releases/download/v0.1-weights/tf_mobilenetv3_large_minimal_100-8596ae28.pth"  # noqa
     },
     "tf_mobilenetv3_small_075": {
-        "imagenet": "https://github.com/rwightman/pytorch-image-models/releases/download/v0.1-weights/tf_mobilenetv3_small_075-da427f52.pth"  # noqa
+        "imagenet": "https://mirror.ghproxy.com/https://github.com/rwightman/pytorch-image-models/releases/download/v0.1-weights/tf_mobilenetv3_small_075-da427f52.pth"  # noqa
     },
     "tf_mobilenetv3_small_100": {
-        "imagenet": "https://github.com/rwightman/pytorch-image-models/releases/download/v0.1-weights/tf_mobilenetv3_small_100-37f49e2b.pth"  # noqa
+        "imagenet": "https://mirror.ghproxy.com/https://github.com/rwightman/pytorch-image-models/releases/download/v0.1-weights/tf_mobilenetv3_small_100-37f49e2b.pth"  # noqa
     },
     "tf_mobilenetv3_small_minimal_100": {
-        "imagenet": "https://github.com/rwightman/pytorch-image-models/releases/download/v0.1-weights/tf_mobilenetv3_small_minimal_100-922a7843.pth"  # noqa
+        "imagenet": "https://mirror.ghproxy.com/https://github.com/rwightman/pytorch-image-models/releases/download/v0.1-weights/tf_mobilenetv3_small_minimal_100-922a7843.pth"  # noqa
     },
 }
 
